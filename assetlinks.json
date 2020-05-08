@@ -1,9 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.covali.group.service.shopper",
-    "sha256_cert_fingerprints":
-    ["18:FB:D1:DF:B4:02:89:95:28:EA:56:42:6A:78:02:11:AD:30:A7:CA:52:22:78:62:51:6A:7A:8C:18:C0:A0:CF"]
-  }
-}]
